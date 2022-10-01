@@ -17,8 +17,6 @@
 ## Result for new picture
 ### Before
 ![image-before](Images/1.png)
-### After
-![image-after](Images/out.png)
 ### Grayscale
 ![image-grayscale](Images/1-grayscale.png)
 ### After
